@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+
+#nested{
+	width:100%;
+}
+#nested td{
+	text-align:center;
+}
